@@ -1,4 +1,4 @@
-# CodeBurger
+# portfolio-backend
 
 > resultado final do meu projeto .
 
@@ -8,6 +8,9 @@ Esse projeto foi desenvolvidos nas seguintes tecnologias:
 
 - [x] criação JavaScript
 - [x] criação NODE
+- [x] bancos de dados Docker
+
+
 
 às seguintes pessoas que para este projeto:
 
@@ -15,7 +18,7 @@ Esse projeto foi desenvolvidos nas seguintes tecnologias:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./uploads/IMG-20241129-WA0020.jpg" width="100px;" alt="Foto do Tiago Agositnho no GitHub"/><br>
+        <img src="./uploads/IMG-20241129-WA0027.jpg" width="100px;" alt="Foto do Tiago Agositnho no GitHub"/><br>
         <sub>
           <b>Tiago Agostinho</b>
         </sub>
